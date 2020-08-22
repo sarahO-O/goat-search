@@ -1,0 +1,14 @@
+h1 {
+  background:rgb(235, 174, 150);
+  color:rgb(0, 0, 0);
+}
+
+body { 
+  background: rgba(226, 194, 146, 0.918);
+  color: rgb(0, 0, 0);
+
+}
+
+.a {
+  font: 15px Georgia;
+}
